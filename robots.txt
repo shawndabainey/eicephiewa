@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bohroofoot.salafrigeriolab.com/sitemap.xml
